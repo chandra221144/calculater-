@@ -1,0 +1,8 @@
+{
+  "name": "CalcKaro - Indian Finance & Utility Calculators",
+  "description": "Free Indian finance and utility calculators including EMI, SIP, GST, Income Tax, Salary, FD, Age, and BMI calculators with instant calculations and breakdowns.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
