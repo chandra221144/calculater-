@@ -227,8 +227,6 @@ export function Footer() {
             <li><Link to="/privacy-policy" className="hover:text-white transition py-0.5 inline-block">Privacy Policy</Link></li>
             <li><Link to="/disclaimer" className="hover:text-white transition py-0.5 inline-block">Disclaimer</Link></li>
             <li><Link to="/terms" className="hover:text-white transition py-0.5 inline-block">Terms & Conditions</Link></li>
-            <li><Link to="/seo-keywords" className="hover:text-white transition py-0.5 inline-block">SEO Keywords</Link></li>
-            <li><Link to="/setup-guide" className="hover:text-white transition py-0.5 inline-block">Hosting & AdSense Guide</Link></li>
           </ul>
           <p className="mt-4 flex items-center gap-1.5 text-xs text-sky-200/80"><Mail className="h-3.5 w-3.5" /> {BRAND.email}</p>
           <p className="mt-1 flex items-center gap-1.5 text-xs text-sky-200/80"><MapPin className="h-3.5 w-3.5" /> Mumbai, Maharashtra, India</p>
